@@ -1,6 +1,4 @@
 # JogadorTAD
-Implementando um sistema utilizando o conceito TAD(Tipo abstrato de Dados)
-
 Tipos Abstratos de Dados, ou TADs são modelos matemáticos de estruturas de dados que definem:
 o tipo de dados a ser armazenado;
 as operações possíveis sobre estes dados;
@@ -14,7 +12,4 @@ Em linguagens como C, um TAD se concretiza através de um tipo de dado(em geral 
 
 Em linguagens como C++, um TAD é definido por meio de uma classe, que possui métodos de acesso aos dados.
 
-Utilizando a ideia de TAD, consegue-se implementar três conceitos fundamentais de Orientação a Objetos, que são:
-  +Abstração 
-  +Encapsulamento
-  +Modularidade
+Utilizando a ideia de TAD, consegue-se implementar três conceitos fundamentais de Orientação a Objetos, que são:  Modularidade, Encapsulamento e  Abstração.
